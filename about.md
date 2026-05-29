@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## About the Project
+**Aging Health** is a patient-led, independent research project focused on geriatric longevity and metabolic health. As an independent researcher and advocate, my mission is to translate complex clinical data into accessible health literacy for a senior audience.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## Our Approach
+I manage this platform to provide evidence-based briefings, glossary systems, and clinical navigation tools. My goal is to empower patients to better understand metabolic health markers and age-related conditions through clear, free, and actionable information.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## About the Author
+I am an independent health researcher, patient advocate, and website administrator dedicated to the principle that health information should be freely available, not trapped behind paywalls. 
 
-
-[jekyll-organization]: https://github.com/jekyll
+---
+*For more information on the research methodology or to reach out, please visit my GitHub repository.*
