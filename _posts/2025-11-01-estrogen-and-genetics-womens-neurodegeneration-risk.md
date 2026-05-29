@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Estrogen and Genetics: Women's Neurodegeneration Risk"
 date: 2025-11-01T15:35:00+00:00
 categories: ["brain-mind"]

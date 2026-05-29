@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Intermittent Fasting: Cutting the Hype, Debunking Myths"
 date: 2024-08-16T06:57:00+00:00
 categories: [Nutrition]

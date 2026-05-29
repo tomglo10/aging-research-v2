@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Vitamin D and Sarcopenia: The 2026 Muscle Health Update"
 date: 2026-04-26
 category: "[Health Research]"

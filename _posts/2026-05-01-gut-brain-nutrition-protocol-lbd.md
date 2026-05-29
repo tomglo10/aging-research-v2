@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "The 2026 Gut-Brain Nutrition Protocol: Fueling the Vagus Nerve"
 date: 2026-05-01
 category: "[Health Research, Nutrition]"

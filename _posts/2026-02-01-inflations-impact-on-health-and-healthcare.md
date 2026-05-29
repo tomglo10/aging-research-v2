@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Inflation's Impact on Health and Healthcare: A Senior Citizen's Guide"
 permalink: /posts/inflation-impact-senior-healthcare-advocacy/
 date: 2026-02-01T01:00:00+00:00

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Unlocking Brain Potential: Surprising Links Between Liver and Neurology"
 date: 2026-02-22T21:58:00+00:00
 categories: ["brain-mind"]

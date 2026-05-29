@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "WHO’s Intrinsic Capacity Framework Explained"
 permalink: /posts/whos-intrinsic-capacity-framework-explained/
 date: 2026-01-28T05:17:41+00:00

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "The Dawn of Brain Rejuvenation: Hope for Dementia in 2026"
 date: 2026-04-10T09:30:00+00:00
 categories: ["brain-mind"]

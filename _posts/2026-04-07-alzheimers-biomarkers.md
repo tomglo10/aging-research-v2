@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "The Biomarker Breakthrough: Alzheimer’s Blood Tests in 2026"
 date: 2026-04-10T08:00:00+00:00
 categories: ["brain-mind"]

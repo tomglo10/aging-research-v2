@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "The Healthspan Imperative: Cultivating System-Wide Resilience"
 date: 2026-05-21T08:00:00+00:00
 categories: ["Longevity"]

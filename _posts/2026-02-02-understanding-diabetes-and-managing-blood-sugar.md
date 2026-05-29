@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Understanding Diabetes and Managing Blood Sugar"
 redirect_from:
   - /2024/01/diabetes.html

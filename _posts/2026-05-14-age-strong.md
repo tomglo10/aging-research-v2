@@ -1,7 +1,7 @@
 ---
 title: "Aging Strong: The Psychology of Building Muscle for Seniors (Beginners to Experienced)"
 date: 2026-05-14
-layout: single
+layout: post
 categories: [Cognitive Health, Longevity]
 tags: [aging, muscle, seniors, psychology, resistance training, health]
 header:

@@ -1,6 +1,6 @@
 ---
 # Minimal Mistakes strict layout flag
-layout: single
+layout: post
 title: "Advances in Recent Medical Science Research: 2026 Update"
 date: 2026-01-15T23:08:00+00:00
 categories: ["Longevity"]

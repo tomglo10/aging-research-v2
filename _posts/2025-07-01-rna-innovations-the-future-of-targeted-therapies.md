@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "RNA Innovations: The Future of Targeted Therapies"
 date: 2025-07-01T22:46:00+00:00
 categories: [clinical-data, health-literacy]

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Genomic Medicine: Tailoring Treatments to Your Genes"
 date: 2026-04-10T08:00:00+00:00
 categories: ["Longevity"]

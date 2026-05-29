@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "The Burden Unseen: How Anxiety Accelerates Aging"
 date: 2025-04-15T19:23:00+00:00
 categories: ["brain-mind"]

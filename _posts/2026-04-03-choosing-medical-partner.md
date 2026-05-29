@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "The Ultimate 5-Step Guide to Choosing Your Medical Partner"
 date: 2026-04-03T10:00:00+00:00
 categories: ["Longevity"]

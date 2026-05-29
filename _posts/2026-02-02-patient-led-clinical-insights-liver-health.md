@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Patient-Led Clinical Insights: Advocating for Liver Health"
 permalink: /posts/patient-led-clinical-insights-liver-health/
 date: 2026-02-02

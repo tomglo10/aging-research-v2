@@ -5,7 +5,7 @@
 # ════════════════════════════════════════════════════════════
 
 # * Always "single" for Minimal Mistakes post pages
-layout: single
+layout: post
 
 # * Shown in browser tab, grid cards, and sidebar lists
 title: "Your Post Title Here"

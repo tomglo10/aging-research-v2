@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Understanding Lab Results: A Senior’s Guide to Common Blood Tests"
 date: 2026-05-13
 categories: [Health Literacy]

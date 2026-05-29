@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "The Big 6 of Health: Building a Vascular Safety Net"
 date: 2026-02-22T22:44:00+00:00
 categories: ["Longevity"]

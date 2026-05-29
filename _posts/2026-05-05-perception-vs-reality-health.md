@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Reality vs. Perception: The Fabric of Our Experiences"
 date: 2026-05-05 14:28:00 -0600
 categories: [Cognitive Health, Mental Wellness]

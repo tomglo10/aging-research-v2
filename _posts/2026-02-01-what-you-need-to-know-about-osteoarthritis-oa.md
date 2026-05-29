@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "What You Need to Know About Osteoarthritis (OA)"
 permalink: /posts/understanding-osteoarthritis-joint-health/
 date: 2026-02-01T02:45:00+00:00

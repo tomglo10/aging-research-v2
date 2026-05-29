@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "How Quitting Smoking Reduces Inflammation and Changes Psoriasis Symptoms"
 permalink: /posts/quitting-smoking-psoriasis-inflammation/
 date: 2026-02-16

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Lessons from a 2008 Heart Attack Survivor"
 permalink: /posts/lessons-from-a-2008-heart-attack-survivor/
 date: 2026-02-02

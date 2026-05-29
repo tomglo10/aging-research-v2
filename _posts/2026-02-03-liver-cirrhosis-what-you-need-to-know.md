@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Liver Cirrhosis: Understanding Decompensation and Portal Hypertension"
 redirect_from:
   - /2023/09/liver-cirrhosis-what-you-need-to-know.html

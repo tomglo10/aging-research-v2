@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Mini-Stroke Prevention: Managing Liver Pressure with Carvedilol"
 permalink: /posts/mini-stroke-prevention-liver-pressure-carvedilol/
 date: 2026-02-22T08:14:00+00:00

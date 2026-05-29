@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Why Medication Consistency is Crucial for Hypertension"
 permalink: /posts/medication-consistency-crucial-hypertension/
 date: 2026-02-14

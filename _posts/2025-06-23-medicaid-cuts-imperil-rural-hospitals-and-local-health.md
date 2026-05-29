@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Medicaid Cuts Imperil Rural Hospitals and Local Health"
 permalink: /posts/medicaid-cuts-rural-hospitals-health-impact/
 date: 2025-06-23T11:59:00+00:00

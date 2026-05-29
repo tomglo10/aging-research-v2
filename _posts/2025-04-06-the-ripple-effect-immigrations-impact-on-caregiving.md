@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "The Ripple Effect: Immigration's Impact on Caregiving"
 permalink: /posts/immigration-crackdowns-caregiving-industry-impact/
 date: 2025-04-06T22:14:00+00:00

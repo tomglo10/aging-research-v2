@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Adapting to HealthCare's New Realities"
 permalink: /posts/navigating-maze-of-modern-healthcare/
 date: 2025-06-30T18:28:00+00:00

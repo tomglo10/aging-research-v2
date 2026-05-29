@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Food Additives & Type 2 Diabetes: The Hidden Metabolic Cost"
 date: 2026-04-10T11:00:00+00:00
 categories: ["heart-metabolic"]

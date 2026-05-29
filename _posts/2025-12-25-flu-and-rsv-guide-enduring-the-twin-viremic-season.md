@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Flu and RSV Guide: Enduring the 'Twin-Viremic' Season"
 date: 2026-04-23
 categories: [Research]

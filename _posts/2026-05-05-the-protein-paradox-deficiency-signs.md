@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "The Protein Paradox: Ten Signs You Aren't Eating Enough"
 date: 2026-05-05 18:26:00 -0600
 categories: [Nutrition, Longevity]

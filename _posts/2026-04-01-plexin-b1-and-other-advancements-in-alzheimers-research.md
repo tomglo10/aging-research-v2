@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Plexin-B1: The Cellular GPS Guiding Alzheimer's Research"
 date: 2026-04-01T08:00:00+00:00
 categories: ["brain-mind"]

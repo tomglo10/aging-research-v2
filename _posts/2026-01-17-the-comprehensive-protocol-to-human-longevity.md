@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "The Comprehensive Protocol to Human Longevity: Healthspan Architecture"
 date: 2026-01-17T09:20:00+00:00
 categories: ["Longevity"]

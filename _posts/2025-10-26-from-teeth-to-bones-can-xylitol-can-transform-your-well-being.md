@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "From Teeth to Bones: Can Xylitol Transform Your Well-Being?"
 date: 2025-10-26T07:43:00+00:00
 categories: ["Metabolism"]

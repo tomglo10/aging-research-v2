@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Mind Matters: Cognitive Reframing Techniques for Seniors"
 date: 2026-04-10T08:00:00+00:00
 categories: ["brain-mind"]

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Is Your Doctor a Partner? 5 Essential Questions for Longevity"
 date: 2026-04-10T08:00:00+00:00
 categories: ["Longevity"]

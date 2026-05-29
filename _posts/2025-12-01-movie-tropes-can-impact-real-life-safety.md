@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Dangerous Media & Medical Myths: Unmasking Screen Fiction vs. Real-Life Emergency Safety"
 date: 2025-12-01T01:18:00+00:00
 categories: ["brain-mind"]

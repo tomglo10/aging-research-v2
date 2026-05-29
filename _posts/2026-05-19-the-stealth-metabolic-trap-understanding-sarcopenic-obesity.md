@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "The Stealth Metabolic Trap: Understanding Sarcopenic Obesity"
 date: 2026-05-19T08:00:00+00:00
 categories: ["heart-metabolic"]

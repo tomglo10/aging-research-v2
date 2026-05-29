@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Alzheimer's Combination Therapy: The 2026 Shift"
 date: 2026-04-16T08:00:00+00:00
 categories: ["brain-mind"]

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Healthy Aging in 2026: Evidence-Based Tips for a Vibrant Life"
 date: 2026-03-31T08:00:00+00:00
 categories: ["Longevity"]

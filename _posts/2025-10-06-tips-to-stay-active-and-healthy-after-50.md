@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Tips to Stay Active and Healthy After 50"
 date: 2025-10-06T12:00:00+00:00
 categories: ["Longevity"]

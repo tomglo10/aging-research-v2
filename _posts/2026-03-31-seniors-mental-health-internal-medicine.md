@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Seniors’ Mental Health: The Internal Medicine Connection"
 date: 2026-04-10T11:00:00+00:00
 categories: ["brain-mind"]

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Do Biologic Therapies Reduce Mortality in Psoriasis?"
 permalink: /posts/do-biologic-therapies-reduce-mortality-psoriasis/
 date: 2026-01-24T08:00:00+00:00

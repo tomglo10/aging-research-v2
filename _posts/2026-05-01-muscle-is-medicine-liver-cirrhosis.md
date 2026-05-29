@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Muscle is Medicine: The 2026 Protein Flip in Liver Cirrhosis"
 date: 2026-05-01T09:00:00+00:00
 categories: ["heart-metabolic"]

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Mini-Stroke Symptoms? The First 48 Hours Matter Most for Prevention"
 permalink: /posts/mini-stroke-symptoms-first-48-hours-prevention/
 date: 2026-01-31T07:09:00+00:00

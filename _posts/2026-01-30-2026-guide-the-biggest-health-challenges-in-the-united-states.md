@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Navigating Chronic Disease Costs: The 2026 AI Financial Advocate"
 date: 2026-05-22T08:00:00+00:00
 categories: ["Longevity"]

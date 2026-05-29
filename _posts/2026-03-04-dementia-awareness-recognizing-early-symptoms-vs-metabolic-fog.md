@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Dementia Awareness: Recognizing Early Symptoms vs. Metabolic Fog"
 permalink: /posts/dementia-awareness-early-symptoms-metabolic-fog/
 date: 2026-03-04T22:10:00+00:00

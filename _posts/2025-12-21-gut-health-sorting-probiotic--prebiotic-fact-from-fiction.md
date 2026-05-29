@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Gut Health: Sorting Probiotic & Prebiotic Fact from Fiction"
 date: 2025-12-21T04:03:00+00:00
 categories: ["Metabolism"]

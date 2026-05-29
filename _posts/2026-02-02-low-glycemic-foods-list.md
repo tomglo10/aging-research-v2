@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "A Low-Glycemic Foods List for Sugar Management"
 permalink: /posts/low-glycemic-foods-list-sugar-management/
 date: 2026-02-02

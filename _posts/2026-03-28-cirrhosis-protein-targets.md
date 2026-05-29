@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "The Great Protein Flip: Why 'Resting the Liver' is Outdated"
 date: 2026-03-28T08:00:00+00:00
 categories: ["heart-metabolic"]

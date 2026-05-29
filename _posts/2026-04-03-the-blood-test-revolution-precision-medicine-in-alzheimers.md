@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "The Blood Test Revolution: Precision Medicine in Alzheimer’s"
 date: 2026-04-03T08:00:00+00:00
 categories: ["brain-mind"]

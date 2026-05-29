@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Achieve Wellness Milestones By Partnering with Your Physician"
 date: 2026-04-10T10:00:00+00:00
 categories: ["Longevity"]

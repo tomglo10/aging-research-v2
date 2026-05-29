@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Oxalates: Do They Cause Health Issues?"
 date: 2023-09-11
 tags: [Nutrition, Kidney, Digestive, Metabolism]

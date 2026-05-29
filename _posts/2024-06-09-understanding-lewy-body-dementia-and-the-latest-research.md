@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Understanding Lewy Body Dementia and the Latest Research"
 date: 2024-06-09T16:57:00+00:00
 categories: ["Healthspan"]

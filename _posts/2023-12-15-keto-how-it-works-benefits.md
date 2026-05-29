@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Keto Diet: Metabolic Mechanisms and Neurological Benefits"
 permalink: /posts/keto-diet-metabolic-mechanisms-neurological-benefits/
 date: 2026-04-16

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Senior Care: AI's Early Sepsis Detection Saves Lives"
 date: 2026-04-23T08:00:00+00:00
 categories: ["Metabolism"]

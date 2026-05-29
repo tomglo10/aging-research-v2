@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "The Connection Between Falls and Traumatic Brain Injury"
 redirect_from:
   - /posts/falls-and-traumatic-brain-injury/

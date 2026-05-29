@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Surprising Circadian Disrupters: Infections, Diseases, and Vaccines"
 permalink: /posts/vaccines-infections-diseases-circadian-rhythm/
 date: 2025-03-31T15:48:00+00:00

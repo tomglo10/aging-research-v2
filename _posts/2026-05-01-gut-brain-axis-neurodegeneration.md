@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "The Vagus Highway: How the Gut-Brain Axis Drives Neurodegeneration"
 date: 2026-05-01
 categories: [Health Research, Longevity Series]

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Mind Matters: Cultivating Mental Health"
 date: 2026-03-08T08:00:00+00:00
 categories: ["brain-mind"]

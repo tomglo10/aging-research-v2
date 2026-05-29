@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Harnessing the AI Healthcare Revolution"
 date: 2025-07-22T19:47:00+00:00
 categories: ["Longevity"]

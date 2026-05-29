@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Be Ready: Things to Know For Emergency Preparedness"
 date: 2025-07-13T04:26:00+00:00
 categories: ["Longevity"]

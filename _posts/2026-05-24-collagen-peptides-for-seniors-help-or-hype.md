@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Collagen Peptides for Seniors: True Help or Corporate Hype?"
 date: 2026-05-24T08:00:00+00:00
 categories: ["Longevity"]

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "The Vagus Nerve Exercise Guide: Physical Resets for Longevity"
 date: 2026-05-02
 category: "[Health Research, Physical Therapy]"

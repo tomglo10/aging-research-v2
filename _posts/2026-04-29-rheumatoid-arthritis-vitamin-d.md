@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Rheumatoid Arthritis & Vitamin D: The 2026 Deep Dive"
 date: 2026-04-29
 category: "[Autoimmune]"

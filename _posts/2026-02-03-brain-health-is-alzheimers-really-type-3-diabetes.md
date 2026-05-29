@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Brain Health: Is Alzheimer's Really Type 3 Diabetes?"
 permalink: /posts/brain-health-is-alzheimers-really-type-3-diabetes/
 date: 2026-02-03T06:46:00+00:00

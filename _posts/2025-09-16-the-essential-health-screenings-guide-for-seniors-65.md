@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "The Essential Health Screenings Guide for Seniors (65+)"
 date: 2025-09-16T20:08:00+00:00
 categories: ["Longevity"]
